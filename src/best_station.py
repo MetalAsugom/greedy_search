@@ -20,8 +20,3 @@ def find_best_station(stations, covered_states):
             best_station = station
             covered = len(new_state)
     return best_station
-
-        
-        
-        
-        
